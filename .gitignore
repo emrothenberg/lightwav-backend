@@ -1,0 +1,17 @@
+# ENV
+venv
+win-venv
+
+# Temp files
+temp.py
+.in_progress
+.out
+.wav
+
+# python
+__pycache__
+
+# Build
+build
+dist
+# *.spec
